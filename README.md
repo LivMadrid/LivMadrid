@@ -1,14 +1,22 @@
 (Liv) 🐱‍💻💃🎨🧿🌸
 
+I come from a multi-faceted background. Since I was a child I've been  interested in people, art, dancing, and languages. 
+After studying, living, and working abroad in Italy, Turkey, and Hungary I became fluent in Italian and versed in Turkish and Hungarian. 
 
-Olivia hails from multi-faceted background. Since Olivia was a child she was interested in people, art, dancing, and languages. 
-After studying, living, and working abroad in Italy, Turkey, and Hungary she became fluent in Italian and versed in Turkish and Hungarian. 
+Exploring software engineering after learning about the Python language and all the creative ways to implement it I started searching for a career where I can be creative, solve problems, help people, and utilize my language skills. I am a Software Engineer after non-linear journey of occupations:
+bio-cultural anthropologist/art & Italian teacher/ magazine writer/ restaurant server & manager/ veterinary assistant. My path to becoming an SWE is non-traditional and I wouldn't have it any other way. 
 
-She became interested in software engineering after learning about the Python language and all the creative ways to implement it. 
-Searching for a career in which she could be creative, solve problems, help people, and utilize her language skills she found her path in software engineering. 
+I am interested in the intersection of Tech and women’s health, AI development, cybersecurity(especially in the IOT), creativity, and languages(both human and computer). I strive to be part of a team to make things more efficient, joyful, and better for the world.
 
-Olivia is interested in the intersection of Tech and women’s health, creativity, and languages and how she can be part of a team to make things more efficient
-and better for the world.
+🎨I love to create (in code, clay, movement, ink, paint, printmaking, writing, jewelry, gardening).
+
+🧡I love learning languages and new ways of thinking.
+
+🧠I love thinking about consciousness and what it means to exist in this reality.
+
+☕I love connecting with people over a meal or coffee and sharing stories.
+
+🌵I seek discomfort for growth. 
 
 
 🧰 Toolbox :
