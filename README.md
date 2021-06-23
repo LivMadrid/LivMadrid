@@ -6,7 +6,7 @@ After studying, living, and working abroad in Italy, Turkey, and Hungary I becam
 Exploring software engineering after learning about the Python language and all the creative ways to implement it I started searching for a career where I can be creative, solve problems, help people, and utilize my language skills. I am a Software Engineer after non-linear journey of occupations:
 bio-cultural anthropologist/art & Italian teacher/ magazine writer/ restaurant server & manager/ veterinary assistant. My path to becoming an SWE is non-traditional and I wouldn't have it any other way. 
 
-I am interested in the intersection of Tech and women’s health, AI development, cybersecurity(especially in the IOT), creativity, and languages(both human and computer). I strive to be part of a team to make things more efficient, joyful, and better for the world.
+I am interested in the intersection of Tech and women’s health, game development, AI development, cybersecurity(especially in the IOT), creativity, and languages(both human and computer). I strive to be part of a team to make things more efficient, joyful, and better for the world.
 
 🎨I love to create (in code, clay, movement, ink, paint, printmaking, writing, jewelry, gardening).
 
